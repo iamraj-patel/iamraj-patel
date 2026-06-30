@@ -4,13 +4,11 @@
 
 ### Infrastructure Managed Services Senior Analyst
 
-**Linux • VMware • PowerShell • Infrastructure Automation • Kubernetes**
+Linux • VMware • PowerShell • Infrastructure Automation • Kubernetes
 
 <p>
-Passionate about automating infrastructure, reducing operational complexity, and continuously learning modern platform technologies.
+Automating infrastructure one script at a time.
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=iamraj-patel&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 
 </div>
 
@@ -18,9 +16,9 @@ Passionate about automating infrastructure, reducing operational complexity, and
 
 ## 🚀 About Me
 
-I'm an Infrastructure Managed Services Senior Analyst with experience supporting enterprise environments and building automation solutions that improve operational efficiency.
+Infrastructure professional with hands-on experience supporting enterprise environments and building automation solutions that increase efficiency and reduce operational overhead.
 
-### Current Areas of Expertise
+### Areas of Expertise
 
 ✅ Windows Server Administration
 
@@ -28,23 +26,15 @@ I'm an Infrastructure Managed Services Senior Analyst with experience supporting
 
 ✅ VMware vSphere
 
-✅ PowerShell Automation
+✅ Infrastructure Automation
 
-✅ Bash/Shell Scripting
+✅ PowerShell Development
 
-✅ Infrastructure Operations
+✅ Bash Scripting
 
-✅ Troubleshooting & Incident Management
+✅ Incident Management
 
-### Currently Learning
-
-🚧 Kubernetes
-
-🚧 Platform Engineering
-
-🚧 Infrastructure as Code
-
-🚧 Cloud-Native Technologies
+✅ Enterprise Infrastructure Support
 
 ---
 
@@ -52,21 +42,37 @@ I'm an Infrastructure Managed Services Senior Analyst with experience supporting
 
 ### Infrastructure
 
-![VMware](https://img.shields.io/badge/VMware-vSphere-607078?style=for-the-badge&logo=vmware)
-![Windows](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- Windows Server
+- Active Directory
+- VMware vSphere
+- Linux Administration
 
 ### Automation
 
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
+- PowerShell
+- Bash
+- Git
+- GitHub
 
-### DevOps & Platform Tools
+### Platform Engineering
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Learning-326CE5?style=for-the-badge&logo=kubernetes)
+- Ansible
+- Docker
+- Kubernetes (Learning)
+
+---
+
+## 🔥 Infrastructure Skills
+
+| Technology | Experience |
+|------------|------------|
+| PowerShell | ██████████ |
+| VMware | ██████████ |
+| Windows Server | ██████████ |
+| Linux | █████████░ |
+| Bash | █████████░ |
+| Ansible | ████████░░ |
+| Kubernetes | ██████░░░░ |
 
 ---
 
@@ -74,15 +80,14 @@ I'm an Infrastructure Managed Services Senior Analyst with experience supporting
 
 ### 🐧 Shell Script Automation
 
-Automation scripts for:
+Infrastructure automation scripts including:
 
-- Linux Server Onboarding
-- SSL Certificate Management
-- Kubernetes Administration
-- MOTD Configuration
+- Linux onboarding
+- SSL certificate deployment
+- Kubernetes utilities
+- MOTD management
 
-Repository:
-
+🔗 Repository:
 https://github.com/iamraj-patel/shell-script
 
 ---
@@ -91,38 +96,31 @@ https://github.com/iamraj-patel/shell-script
 
 Automation solutions for:
 
-- User Onboarding
-- Password Management
-- Reporting
-- Administrative Tasks
+- User onboarding
+- Password management
+- Administrative reporting
+- Windows administration
 
-Repository:
-
+🔗 Repository:
 https://github.com/iamraj-patel/PowerShell
-
----
-
-### 📄 Resume Website
-
-My resume and portfolio hosted using GitHub Pages.
-
-Website:
-
-https://iamraj-patel.github.io/resume/
-
-Repository:
-
-https://github.com/iamraj-patel/resume
 
 ---
 
 ### 🏗 Infrastructure as Code
 
-Ansible configurations and automation initiatives for infrastructure management.
+Ansible configurations and automation initiatives.
 
-Repository:
-
+🔗 Repository:
 https://github.com/iamraj-patel/Ansible-Main
+
+---
+
+### 📄 Resume Website
+
+Professional resume site hosted using GitHub Pages.
+
+🔗 Website:
+https://iamraj-patel.github.io/resume/
 
 ---
 
@@ -132,138 +130,67 @@ https://github.com/iamraj-patel/Ansible-Main
 Windows Administration
           │
           ▼
-VMware Infrastructure
+VMware Engineering
           │
           ▼
 PowerShell Automation
           │
           ▼
-Linux Administration
+Linux Infrastructure
           │
           ▼
 Kubernetes Learning
           │
           ▼
-Platform Engineering (Goal)
+Platform Engineering
 ```
 
----
+## 🎯 Current Goals
 
-## 🎯 Current 2026 Goals
-
-### Infrastructure
-
-- [x] PowerShell Automation
-- [x] Linux Automation
+- [x] Infrastructure Automation
 - [x] VMware Administration
-- [x] Git & GitHub
-
-### Platform Engineering
-
+- [x] Linux Administration
+- [x] PowerShell Development
 - [ ] Kubernetes Labs
-- [ ] Helm
 - [ ] CI/CD Pipelines
-- [ ] Infrastructure as Code
 - [ ] Platform Engineering Projects
 
 ---
 
-## 📚 Active Learning Projects
+## 📚 Learning Focus
 
-### Kubernetes Lab
+Currently working on:
 
-Working on:
-
-- Pods
-- Deployments
-- Services
-- ConfigMaps
-- Secrets
-- Ingress
-- Storage
-- Troubleshooting
+- Kubernetes
+- Helm
+- Infrastructure as Code
+- Automation Frameworks
+- Platform Engineering Concepts
 
 ---
 
-### VMware Automation
-
-Working on:
-
-- VM Reporting
-- PowerCLI Automation
-- Secure Boot Validation
-- Operational Reporting
-- Server Audits
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamraj-patel&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamraj-patel&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=iamraj-patel&theme=tokyonight)
-
-</div>
-
----
-
-## 🏃 Outside of Technology
-
-When I'm not working on infrastructure or automation, you'll usually find me:
+## 🏃 Outside Technology
 
 - Running
-- Training for fitness goals
-- Learning Kubernetes
-- Testing automation ideas
-- Exploring Linux technologies
-
----
-
-## 📝 Technical Interests
-
-```yaml
-Infrastructure:
-  - VMware
-  - Windows Server
-  - Linux
-
-Automation:
-  - PowerShell
-  - Bash
-  - GitHub
-
-Platform Engineering:
-  - Kubernetes
-  - Containers
-  - Infrastructure as Code
-
-Future Focus:
-  - DevOps
-  - Cloud Engineering
-  - Platform Engineering
-```
+- Fitness Training
+- Continuous Learning
+- Open Source Projects
 
 ---
 
 ## 📬 Connect With Me
 
-### Portfolio
-
+Portfolio:
 https://iamraj-patel.github.io/resume/
 
-### GitHub
-
+GitHub:
 https://github.com/iamraj-patel
 
 ---
 
 <div align="center">
 
-### "Automate the repetitive. Simplify the complex."
+### Automate the Repetitive. Simplify the Complex.
 
 ⭐ Thanks for visiting my profile!
 
