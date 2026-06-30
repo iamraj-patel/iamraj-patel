@@ -181,7 +181,7 @@ Currently working on:
 ## 📬 Connect With Me
 
 Portfolio:
-https://iamraj-patel.github.io/resume/
+https://iamraj-patel.github.io
 
 GitHub:
 https://github.com/iamraj-patel
